@@ -1,7 +1,7 @@
 ## 7 Minutes Workout
 An exercise application was developed, where it lists 12 types of exercises that must be performed in 7 minutes daily. Each exercise should be done for 30 seconds with 10 seconds of rest. In addition to the exercises, it has a BMI calculator and has the history of the exercises performed.
 
-This application is developed using:
+This application was developed using:
 - Kotlin
 - Database Room
 - AndroidX
